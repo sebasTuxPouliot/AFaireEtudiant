@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/spouliot/AndroidStudioProjects/AFaire étudiant/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/spouliot/AndroidStudioProjects/AFaire étudiant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_63505d769672498f9c2d8cc70079e8f28d7e1a77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/spouliot/AndroidStudioProjects/AFaire étudiant/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="52c4e9a283dfba6fc82b978f5f1de4700a6ed8e3">
+        <dex dex="/home/spouliot/AndroidStudioProjects/AFaire étudiant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd89c5cbe9b1d4739ba55a38ba7fa0c0d7ca8a32/classes.dex" />
+    </item>
+
+</items>

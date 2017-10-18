@@ -1,0 +1,7 @@
+#Wed Oct 18 13:56:34 EDT 2017
+base.0=/home/spouliot/AndroidStudioProjects/AFaire étudiant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_63505d769672498f9c2d8cc70079e8f28d7e1a77
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/spouliot/AndroidStudioProjects/AFaire étudiant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd89c5cbe9b1d4739ba55a38ba7fa0c0d7ca8a32/classes.dex
+base.1=/home/spouliot/AndroidStudioProjects/AFaire étudiant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd89c5cbe9b1d4739ba55a38ba7fa0c0d7ca8a32
+file.0=/home/spouliot/AndroidStudioProjects/AFaire étudiant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_63505d769672498f9c2d8cc70079e8f28d7e1a77/classes.dex
