@@ -81,16 +81,7 @@ public class DatabaseHandler extends SQLiteOpenHelper {
     public List<Tache> getTaches(){
         //TODO récupérer toutes les tâches.
         List<Tache> liste = new ArrayList<>();
-        SQLiteDatabase db = this.getReadableDatabase();
 
-        Cursor c =  db.rawQuery("SELECT * FROM " + NOM_TABLE, null);
-        c.moveToFirst();
-        while(!c.isAfterLast()){
-            liste.add(new Tache(c.getInt(0), c.getString(1), c.getInt(2)));
-            c.moveToNext();
-        }
-
-        db.close();
         return liste;
     }
 }
